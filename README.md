@@ -29,5 +29,5 @@ joblib
 ├── results/             # Output files and visualizations
 │   ├── models/               # Saved models
 │   ├── visualizations/               # EDA and other visualizations
-└── requirements.txt     # Project dependencies
+
 ```
